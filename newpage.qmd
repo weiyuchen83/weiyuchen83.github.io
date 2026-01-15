@@ -1,0 +1,9 @@
+---
+title: "Data Visualization"
+---
+Story behind the task + why this visualization style
+
+I created this chart during my student project when I was exploring how a TV series builds momentum and audience over time. I chose a bar chart because the data is discrete and episodic (each episode is a separate item), and bars make it easy to compare exact values between episodes without implying smooth continuity like a line might. I also grouped and colored the bars by season because seasons are meaningful “chapters” in a TV show—this design helps viewers see both the within-season variation and the between-season trend at a glance.
+
+The main rationale was storytelling: I wanted the visualization to immediately answer the question, “Did the show get more popular over time, and when did it spike?” The bar chart format makes that growth unmistakable, especially in Season 5B, while the seasonal colors provide structure and reduce confusion when many episodes are shown together.
+![](BBViewership.png)

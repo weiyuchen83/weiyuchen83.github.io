@@ -2,10 +2,13 @@
 title: "Goated_Website"
 ---
 
-This is a Quarto website.
+My name is Wei Yuchen, and my favourite TV show is Breaking bad.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Breaking Bad is a crime drama about Walter White, a high school chemistry teacher who’s diagnosed with terminal cancer and decides to manufacture methamphetamine to secure his family’s future. Teaming up with former student Jesse Pinkman, Walter is pulled deeper into the drug trade, where every choice raises the stakes—and chips away at who he used to be. The series traces his transformation from desperate provider to ruthless kingpin, and the fallout that follows for everyone around him.
+
+To learn more about me and Breaking Bad visit @better_bang_hank on instagram.
 
 ```{r}
 1 + 1
 ```
+![](logo.png)

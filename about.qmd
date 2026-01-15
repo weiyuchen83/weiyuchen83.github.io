@@ -1,9 +1,12 @@
 ---
-title: "About"
+title: "FYP Project"
 ---
+For our final year project, we planned, filmed, and recreated key moments from Breaking Bad as a way to study and reproduce the show’s visual style and storytelling techniques. We began by selecting scenes that highlighted the series’ signature tone, then broke them down shot-by-shot to understand camera angles, blocking, pacing, lighting, sound, and color. Using that analysis, we created storyboards, shot lists, and a production schedule, and assigned roles across directing, cinematography, acting, sound, and editing.
 
-About this site
+During production, we focused on matching the original look and feel through careful location choices, props, costume design, and controlled lighting setups. In post-production, we edited our footage to mirror the rhythm of the source material and used color grading and sound design to recreate the tense, cinematic atmosphere. The final outcome is a short recreation that demonstrates our ability to translate professional screen language into our own production workflow, while reflecting on how composition, performance, and editing shape mood and character.
 
 ```{r}
 1 + 1
 ```
+![](ozymandias.png)
+
