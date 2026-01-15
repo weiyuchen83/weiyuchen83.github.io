@@ -1,4 +1,8 @@
 ---
 title: "Reflection"
 ---
-Chatgpt helped me to do a lot with coming up with the text and helping me to generate code for the incorporation of images. Other than that all i do myself.
+
+How GenAI has helped me in this individual task:
+<div style="margin-top: 20px;"></div>
+ChatGPT supported me mainly in the early drafting stage. It helped me brainstorm and refine the wording for my website text so it sounded clearer and more professional. It also assisted by suggesting Quarto/R Markdown code for adding and formatting images (such as file paths, captions, and sizing). Aside from those parts, I completed the rest of the work independently, including writing the final content, organising the pages, creating the website structure, and rendering/publishing the site.
+

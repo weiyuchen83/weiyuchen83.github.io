@@ -10,7 +10,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: FYP Project
+      - href: newpage.qmd
+        text: Data Visualisation
+      - href: new2.qmd
+        text: Reflection
 
 format:
   html:

@@ -3,12 +3,17 @@ title: "Goated_Website"
 ---
 
 My name is Wei Yuchen, and my favourite TV show is Breaking bad.
-
+<div style="margin-top: 20px;"></div>
 Breaking Bad is a crime drama about Walter White, a high school chemistry teacher who’s diagnosed with terminal cancer and decides to manufacture methamphetamine to secure his family’s future. Teaming up with former student Jesse Pinkman, Walter is pulled deeper into the drug trade, where every choice raises the stakes—and chips away at who he used to be. The series traces his transformation from desperate provider to ruthless kingpin, and the fallout that follows for everyone around him.
+<div style="margin-top: 20px;"></div>
+To learn more about me and Breaking Bad visit @brawlstars on instagram.
+<div style="margin-top: 20px;"></div>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/WsqdmqRgrIc"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
-To learn more about me and Breaking Bad visit @better_bang_hank on instagram.
-
-```{r}
-1 + 1
-```
 ![](logo.png)
